@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats de [fcaval42]](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical&langs_count=3)
-
----
-
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fleur-caval-informatique-data-ia)
