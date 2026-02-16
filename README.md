@@ -27,9 +27,9 @@
 ### 📊 Statistiques détaillées
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcaval42&layout=compact&theme=tokyonight&hide_title=true" width="400" />
+  <img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=fcaval42&layout=compact&theme=tokyonight&hide_title=true" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fcaval42&show_icons=true&theme=tokyonight&hide_title=true" width="400" />
+  <img src="https://github-readme-stats-two-no-border.vercel.app/api?username=fcaval42&show_icons=true&theme=tokyonight&hide_title=true" width="400" />
 </p>
 
 ## 📫 Me contacter
