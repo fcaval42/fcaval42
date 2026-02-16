@@ -35,6 +35,14 @@
 
 <hr>
 
+### 📊 Mes Statistiques
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcaval42&layout=compact&theme=tokyonight" width="400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fcaval42&show_icons=true&theme=tokyonight" width="400" />
+</p>
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
