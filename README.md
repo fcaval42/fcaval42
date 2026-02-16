@@ -2,7 +2,7 @@
 
 ---
 
-## ✈️ À propos de moi
+## ✈️  À propos de moi
 
 - 🖥️ **Dev Junior** chez 42 Le Havre.
 - 🛠️ Langage favori : Python 🐍
