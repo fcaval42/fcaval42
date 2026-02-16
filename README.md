@@ -35,6 +35,19 @@
 
 <hr>
 
+### 📊 Statistiques détaillées
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcaval42&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fcaval42&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcaval42&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<hr>
+
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fleur-caval-informatique-data-ia)
