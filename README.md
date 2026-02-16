@@ -4,7 +4,7 @@
 
 
 <img width="1920" height="1076" alt="image" src="https://github.com/user-attachments/assets/85ede975-efbc-4821-aa40-17d2a427018e" />
----
+
 
 ## ✈️  À propos de moi
 
@@ -27,7 +27,7 @@
 ### 📊 Tableau de Bord (Statistiques)
 
 <p align="center">
-  <a href="https://github.com/bebejamin1">
+  <a href="https://github.com/fcaval42">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcaval42&theme=tokyonight" alt="Summary Card" width="100%" />
   </a>
 </p>
