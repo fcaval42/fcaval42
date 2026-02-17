@@ -37,6 +37,12 @@
 
 <hr>
 
+<p align="center">
+  <a href="https://github.com/fcaval42">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fcaval42&theme=tokyonight" alt="Repos per Language" />
+  </a>
+</p>
+
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fleur-caval-informatique-data-ia)
